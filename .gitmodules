@@ -4,3 +4,9 @@
 [submodule "rest-rpc-sample"]
 	path = rest-rpc-sample
 	url = https://github.com/sunchen115/rest-rpc-sample.git
+[submodule "rest-rpc-core"]
+	path = rest-rpc-core
+	url = https://github.com/sunchen115/rest-rpc-core.git
+[submodule "project/sbt-rest-rpc"]
+	path = project/sbt-rest-rpc
+	url = https://github.com/sunchen115/sbt-rest-rpc.git
